@@ -7,7 +7,7 @@
 
 [鹰图平台(hunter)-奇安信网络空间测绘系统](https://hunter.qianxin.com/)
 
-![image-20260507183815623](C:\Users\ZhuanZ1\AppData\Roaming\Typora\typora-user-images\image-20260507183815623.png)
+![](docs\1.png)
 
 ## 设置：
 
