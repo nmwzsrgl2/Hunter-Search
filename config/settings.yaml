@@ -1,0 +1,29 @@
+#====== 用户信息 (User Info) ======
+userinfo:
+  # Hunter API Key
+  api_key: ""
+
+# ====== 搜索设置 (Search Settings) ======
+search:
+  fields: "url,ip,port,web_title,web_body,web_code"
+  size: 100
+  full: false
+  start_page: 1
+  end_page: 2
+  # 起始时间
+  start_time: "2021-01-01"
+  # 结束时间
+  end_time: "2021-03-01"
+  # 是否为 web 数据
+  is_web: 1
+
+# ====== 性能与输出 (System) ======
+system:
+  logger: true
+  sheet_merge: true
+  # [New] 异步并发数 (对应畅想中提到的并发控制)
+  concurrency: 10
+  # 默认导出格式: xlsx / csv
+  export_format: xlsx
+  # 默认输出目录
+  output_dir: results

@@ -1,0 +1,7 @@
+colorama
+httpx[http2]
+fastmcp
+logging
+datetime
+pathlib
+asyncio
