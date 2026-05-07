@@ -7,7 +7,7 @@
 
 [鹰图平台(hunter)-奇安信网络空间测绘系统](https://hunter.qianxin.com/)
 
-![](docs\1.png)
+![](docs/1.png)
 
 ## 设置：
 
