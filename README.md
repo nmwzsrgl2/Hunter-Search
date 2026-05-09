@@ -41,4 +41,4 @@ python mcp_server.py
   }
 }
 ```
-
+在/docs/Agent.md中有我使用的agent提示词，当然也可以重新让Ai生成。
